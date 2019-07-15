@@ -3,4 +3,4 @@
 
 ## Introduction
 
-Source code of paper LADetA.
+Source code of paper LADet.
